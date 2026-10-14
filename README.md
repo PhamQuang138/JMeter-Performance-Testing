@@ -1,18 +1,7 @@
 # BÁO CÁO THỰC HÀNH & NGHIÊN CỨU CÔNG CỤ KIỂM THỬ HIỆU NĂNG APACHE JMETER
 
-> **TRƯỜNG ĐẠI HỌC MỎ - ĐỊA CHẤT (HUMG)**  
-> **KHOA CÔNG NGHỆ THÔNG TIN**  
-> **MÔN HỌC:** ĐÁNH GIÁ VÀ KIỂM ĐỊNH CHẤT LƯỢNG PHẦN MỀM  
-> **GIẢNG VIÊN HƯỚNG DẪN:** TS. Trịnh Thanh Bình  
-> **LỚP:** AI&KHDL_1  
-> **NHÓM THỰC HIỆN:** Nhóm 8  
-> 
-> **Danh sách sinh viên thực hiện:**
-> 1. **Phạm Duy Quang** – MSSV: 23017167 *(Nhóm trưởng)*
-> 2. **Trần Văn Nhật** – MSSV: 23010625
-> 3. **Phạm Văn Đạt** – MSSV: 23017150
-> 
-> **Hệ thống thử nghiệm:** Nền tảng chia sẻ & đặt xe trực tuyến **Mioto.vn** (Microservices REST API).
+**Phạm Duy Quang** – MSSV: 23017167 
+
 
 ---
 
