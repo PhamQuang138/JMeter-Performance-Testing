@@ -1,0 +1,7 @@
+sampler_label,aggregate_report_count,average,median,aggregate_report_90%_line,aggregate_report_95%_line,aggregate_report_99%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth
+POST Login OTP,14496,238.0,225,312,365,510,124,1240,0.00%,48.32,68.4
+GET Search Cars,14496,312.0,295,420,485,680,156,1850,0.00%,48.32,245.8
+GET Car Details,14496,185.0,172,240,285,410,98,980,0.00%,48.32,112.5
+POST Calc Price,14496,254.0,240,345,390,560,132,1420,0.00%,48.32,85.2
+POST Create Booking,14496,378.0,360,495,560,780,195,2110,0.02%,48.32,94.6
+TOTAL,72480,273.4,258,380,445,625,98,2110,0.004%,241.6,606.5
