@@ -227,13 +227,3 @@ Sau khi chạy xong, mở file [results/html_dashboard/index.html](results/html_
 
 ---
 
-## 8. Kết luận
-
-Bài thực hành đã giúp Nhóm 8:
-- Nắm vững kiến thức nền tảng và phương pháp luận kiểm thử hiệu năng phần mềm hiện đại.
-- Làm chủ quy trình xây dựng kịch bản kiểm thử tải, stress test và spike test với công cụ tiêu chuẩn công nghiệp **Apache JMeter 5.6**.
-- Phân tích và lượng hóa các chỉ số hiệu năng chuyên sâu (Throughput, Latency, Percentiles, Error Rate, APDEX Score) trên hệ thống thực tế Mioto.vn.
-- Đóng góp báo cáo hoàn chỉnh, minh họa trực quan và bộ kịch bản kiểm thử sẵn sàng tái sử dụng cho các dự án phát triển phần mềm trong tương lai.
-
----
-*Bản quyền báo cáo thuộc về Nhóm 8 - Lớp AI&KHDL_1 - Khoa Công nghệ Thông tin - Trường Đại học Mỏ - Địa chất (HUMG).*
